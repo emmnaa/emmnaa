@@ -23,10 +23,10 @@ Embedded Software Engineer with three years of experience. My main interest is d
 6. Other : <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" alt="scrum" width="40" height="40"/> </p>
 <h3 align="left">Operating systems:</h3>
 <p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="40" height="40"/> </a>  </p>
-    
+<h3 align="left">General Stats:</h3>   
 <p align="center">
      <a href="https://github.com/emmnaa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emmnaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 <!--</div>-->
