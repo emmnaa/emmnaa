@@ -1,7 +1,7 @@
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="50">
-  &nbsp; Welcome  &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="50"></p>
-<h3 align="center"> &nbsp;  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Emna BADREDDINE. 🤝😎 &nbsp;</p>
-<p align="left">
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Emna+BADREDDINE;Embedded+Software+Engineer;Cat+Lover+:3" alt="Embedded Software Engineer"></a>
+</div>
 
