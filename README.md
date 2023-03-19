@@ -41,7 +41,7 @@ Embedded Software Engineer with three years of experience. My main interest is d
 <details>
 <summary>Top languages</summary>
   <p align="center">
-<a href="https://github.com/amaraousaama94">
+<a href="https://github.com/emmnaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmnaa&layout=compact&langs_count=8&theme=great-gatsby"/>
     </a>
     </p>
@@ -51,7 +51,7 @@ Embedded Software Engineer with three years of experience. My main interest is d
 <details>
 <summary>Contribution Graph</summary><!--https://github.com/ashutosh00710/github-readme-activity-graph-->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aemmnaa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emmnaa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </a>
 </details>
