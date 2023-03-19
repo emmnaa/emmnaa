@@ -24,20 +24,8 @@ Embedded Software Engineer with three years of experience. My main interest is d
 <h3 align="left">Operating systems:</h3>
 <p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="40" height="40"/> </a>  </p>
     
-    
-<h2>:octocat: My GitHub Stats</h2>
-    
-<details>
-<summary>General Stats</summary>
-<!--<div>
-    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>-->
-<!--</div>-->
 <p align="center">
-     <a href="https://github.com/amaraoussama94">
+     <a href="https://github.com/emmnaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </p>
@@ -80,12 +68,64 @@ Embedded Software Engineer with three years of experience. My main interest is d
     <img alt="visitors counter" src="https://profile-counter.glitch.me/emmnaa/count.svg">
 </div>
 </details>
-<img alt="github contribution snake animation" src="https://github.com/emmnaa/emmnaa/blob/output/github-contribution-grid-snake.svg"
 
 
- <h4 align="center"> 
- <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="100">Thanks for Visiting!<img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
- </h4>
+<!--RECENT_ACTIVITY:last_update_end-->
+</details>
+
+<details>
+    <summary>My GitHub stats</summary>
+    <div>
+        <a href="https://github.com/Carol42">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        </a>
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+    </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    </br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+    </a>
+    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+    </a>-->
+    </br>
+    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+</details>
+
+<!-- <details>
+    <summary>Profile visitors</summary>
+    <p align="center">:round_pushpin: Profile visitors</p>
+    <div align="center">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    </div>
+</details> -->
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
  
 
 
